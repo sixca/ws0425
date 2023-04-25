@@ -29,6 +29,10 @@
     <script src="https://code.highcharts.com/modules/exporting.js"></script>
     <script src="https://code.highcharts.com/modules/export-data.js"></script>
 
+    <%--  Dash Chart js  --%>
+    <script src="/js/newcenter/newCenter.js"></script>
+
+
     <title>SB Admin 2 - Dashboard</title>
 
     <!-- Custom fonts for this template-->
@@ -43,7 +47,6 @@
 </head>
 
 <body id="page-top">
-
 <!-- Page Wrapper -->
 <div id="wrapper">
 
